@@ -1,0 +1,13 @@
+ufomap/ufomap_ros/ufomap_mapping
+/root/catkin_ws/devel/.private/ufomap_mapping/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/ufomap_mapping/lib/pkgconfig/ufomap_mapping.pc /root/catkin_ws/devel/lib/pkgconfig/ufomap_mapping.pc
+/root/catkin_ws/devel/.private/ufomap_mapping/lib/ufomap_mapping/ufomap_mapping_server_node /root/catkin_ws/devel/lib/ufomap_mapping/ufomap_mapping_server_node
+/root/catkin_ws/devel/.private/ufomap_mapping/lib/python3/dist-packages/ufomap_mapping/__init__.py /root/catkin_ws/devel/lib/python3/dist-packages/ufomap_mapping/__init__.py
+/root/catkin_ws/devel/.private/ufomap_mapping/lib/python3/dist-packages/ufomap_mapping/cfg/ServerConfig.py /root/catkin_ws/devel/lib/python3/dist-packages/ufomap_mapping/cfg/ServerConfig.py
+/root/catkin_ws/devel/.private/ufomap_mapping/lib/python3/dist-packages/ufomap_mapping/cfg/__init__.py /root/catkin_ws/devel/lib/python3/dist-packages/ufomap_mapping/cfg/__init__.py
+/root/catkin_ws/devel/.private/ufomap_mapping/share/ufomap_mapping/docs/ServerConfig-usage.dox /root/catkin_ws/devel/share/ufomap_mapping/docs/ServerConfig-usage.dox
+/root/catkin_ws/devel/.private/ufomap_mapping/share/ufomap_mapping/docs/ServerConfig.wikidoc /root/catkin_ws/devel/share/ufomap_mapping/docs/ServerConfig.wikidoc
+/root/catkin_ws/devel/.private/ufomap_mapping/share/ufomap_mapping/docs/ServerConfig.dox /root/catkin_ws/devel/share/ufomap_mapping/docs/ServerConfig.dox
+/root/catkin_ws/devel/.private/ufomap_mapping/share/ufomap_mapping/cmake/ufomap_mappingConfig.cmake /root/catkin_ws/devel/share/ufomap_mapping/cmake/ufomap_mappingConfig.cmake
+/root/catkin_ws/devel/.private/ufomap_mapping/share/ufomap_mapping/cmake/ufomap_mappingConfig-version.cmake /root/catkin_ws/devel/share/ufomap_mapping/cmake/ufomap_mappingConfig-version.cmake
+/root/catkin_ws/devel/.private/ufomap_mapping/include/ufomap_mapping/ServerConfig.h /root/catkin_ws/devel/include/ufomap_mapping/ServerConfig.h

@@ -1,0 +1,6 @@
+ufomap/ufomap_ros/ufomap_ros
+/root/catkin_ws/devel/.private/ufomap_ros/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/ufomap_ros/lib/libufomap_ros.a /root/catkin_ws/devel/lib/libufomap_ros.a
+/root/catkin_ws/devel/.private/ufomap_ros/lib/pkgconfig/ufomap_ros.pc /root/catkin_ws/devel/lib/pkgconfig/ufomap_ros.pc
+/root/catkin_ws/devel/.private/ufomap_ros/share/ufomap_ros/cmake/ufomap_rosConfig-version.cmake /root/catkin_ws/devel/share/ufomap_ros/cmake/ufomap_rosConfig-version.cmake
+/root/catkin_ws/devel/.private/ufomap_ros/share/ufomap_ros/cmake/ufomap_rosConfig.cmake /root/catkin_ws/devel/share/ufomap_ros/cmake/ufomap_rosConfig.cmake

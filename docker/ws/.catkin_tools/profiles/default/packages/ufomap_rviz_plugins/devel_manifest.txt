@@ -1,0 +1,6 @@
+ufomap/ufomap_ros/ufomap_rviz_plugins
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/lib/libufomap_rviz_plugins.so /root/catkin_ws/devel/lib/libufomap_rviz_plugins.so
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/lib/pkgconfig/ufomap_rviz_plugins.pc /root/catkin_ws/devel/lib/pkgconfig/ufomap_rviz_plugins.pc
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/share/ufomap_rviz_plugins/cmake/ufomap_rviz_pluginsConfig.cmake /root/catkin_ws/devel/share/ufomap_rviz_plugins/cmake/ufomap_rviz_pluginsConfig.cmake
+/root/catkin_ws/devel/.private/ufomap_rviz_plugins/share/ufomap_rviz_plugins/cmake/ufomap_rviz_pluginsConfig-version.cmake /root/catkin_ws/devel/share/ufomap_rviz_plugins/cmake/ufomap_rviz_pluginsConfig-version.cmake
